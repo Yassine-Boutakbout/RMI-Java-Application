@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banque>
+  <Compte id="1">
+    <Client>yassine</Client>
+    <Date>Sat Dec 14 13:41:30 GMT+01:00 2019</Date>
+    <Solde>2000</Solde>
+    <DateDerniereModif>Sat Dec 14 13:41:30 GMT+01:00 2019</DateDerniereModif>
+  </Compte>
+  <Compte id="2">
+    <Client>HASSAN</Client>
+    <Date>Sat Dec 14 13:43:19 GMT+01:00 2019</Date>
+    <Solde>2000</Solde>
+    <DateDerniereModif>Sat Dec 14 13:43:19 GMT+01:00 2019</DateDerniereModif>
+  </Compte>
+</banque>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banque>
+  <Compte id="1">
+    <Client>YASSINE</Client>
+    <Date>Sat Dec 14 16:21:49 GMT+01:00 2019</Date>
+    <Solde>3800</Solde>
+    <DateDerniereModif>Sat Dec 14 16:21:49 GMT+01:00 2019</DateDerniereModif>
+  </Compte>
+  <Compte id="2">
+    <Client>YOUSSEF</Client>
+    <Date>Sat Dec 14 16:22:11 GMT+01:00 2019</Date>
+    <Solde>30200</Solde>
+    <DateDerniereModif>Sat Dec 14 16:22:11 GMT+01:00 2019</DateDerniereModif>
+  </Compte>
+  <Compte id="3">
+    <Client>HASSAN</Client>
+    <Date>Sat Dec 14 23:22:58 GMT+01:00 2019</Date>
+    <Solde>15000</Solde>
+    <DateDerniereModif>Sat Dec 14 23:22:58 GMT+01:00 2019</DateDerniereModif>
+  </Compte>
+  <Compte id="4">
+    <Client>ZAKARIYA</Client>
+    <Date>Sun Dec 15 23:49:59 GMT+01:00 2019</Date>
+    <Solde>3000</Solde>
+    <DateDerniereModif>Sun Dec 15 23:49:59 GMT+01:00 2019</DateDerniereModif>
+  </Compte>
+</banque>
